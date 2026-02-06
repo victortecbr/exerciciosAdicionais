@@ -1,0 +1,30 @@
+#Escreva um algoritmo em Python que tenha a entrada de :
+#Nome e salário Bruto.
+#Vamos exercitar as decisões seguindo as condições abaixo:
+#INSS:
+#Se o salário bruto >= 3000 desconte 11%
+#Se o salário bruto >=2000 desconte 9%
+#Se o salário bruto < 2000 desconte 8%
+#Vale Transporte:
+#Se o salário bruto >= 2000 desconte 6%, caso contrário, desconte 5%.
+#Bônus:
+#Se o salário bruto >= 3000, dê um bônus de 300 reais, caso o contrário,
+#dê um bônus de 200 reais.
+#Cargo:
+#Se o salário bruto >= 3000 cargo = “Acionista”
+#Se o salário bruto >=2000 cargo = “Gerente”
+#Se o salário bruto < 2000 cargo = “Vendedor”
+#Salário líquido:
+#Salário bruto – descontos (inss + vale) + bonus
+#Use varáveis para guardar os
+#cálculos e o cargo para sem
+#mostrados no final. Mostre,
+#também, o nome e o salário
+#inputados pelo usuário
+
+nome = input("Escreva seu nome: ")
+cargo = input("Escreva seu cargo: ")
+salario = input("Escreva seu salário: ")
+
+if salario >= 3000
+salario 
